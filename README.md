@@ -1,10 +1,4 @@
 # BioMiner
-A tool to curate AI-extracted biographical data.
-
-# 🔍 BioMiner
-
-**Use a human-in-the-loop approach to curate AI-extracted historical data.**
-
 BioMiner is a Python application that extracts historical data from biographical texts using a LLM, then provides a Streamlit-based workflow for reviewing and editing the results.
 
 ### Prerequisites
